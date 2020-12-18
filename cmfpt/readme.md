@@ -1,9 +1,34 @@
+Network files and codes to measure CMFPT between ethnicities in American Cities as done in 
+
+   A. Bassolas, S. Sousa, V. Nicosia
+   "Diffusion segregation and the disproportionate incidence of
+   COVID-19 in African American communities", Journal of The Royal
+   Society Interface,
+
+   A. Bassolas, and V. Nicosia
+  "First-passage times to quantify and compare structural correlations
+   and heterogeneity in complex systems." arXiv preprint arXiv:2011.06526 (2020).
+
+Please cite both references in case of using it.
+   
+   
 Files and codes contained:
 
+File to convert network codes to city names
 Network files for each city
 Ethnicity files for each city
 Cell assignment files for each city
 Codes to obtain the mfpt between ethnicities for the adjacency and commuting grapjs
+
+
+File to convert network codes to city names:
+
+The file csacodes.txt includes the conversion from csa codes to the actual city names
+
+The header is:
+
+csacode;city,state
+
 
 Network files:
 
@@ -50,20 +75,20 @@ There a total of 4 codes, two for the results on the real city and two for the n
 
 The codes for the real cities are name as adj.c for the adjacency network and com.c for the commuting graph and both can be used by compiling and introducing the csa code of the desired city
 
-gcc adj.c -lm
-./a.out csa_code
+make adj
+./a csa_code
 
-gcc com.c -lm
-./a.out csa_code
+make com
+./com.out csa_code
 
 
 The codes for the null model are named as adj_null.c for the adjacency network and com_null.c for the commuting graph and both can be used by compiling and introducing the csa code of the desired city
 
 
-gcc adj_null.c -lm
-./a.out csa_code
+make adj_null 
+./adj_null.out csa_code
 
-gcc com_null.c -lm
-./a.out csa_code
+make com_null.c
+./com_null.out csa_code
 
 

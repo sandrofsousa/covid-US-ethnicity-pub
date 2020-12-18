@@ -1,0 +1,171 @@
+268;Greensboro--Winston-Salem--High Point, NC
+482;Salt Lake City-Provo-Orem, UT
+264;Gainesville-Lake City, FL
+266;Grand Rapids-Wyoming-Muskegon, MI
+267;Green Bay-Shawano, WI
+260;Fresno-Madera, CA
+145;Bloomington-Pontiac, IL
+144;Bloomington-Bedford, IN
+147;Boise City-Mountain Home-Ontario, ID-OR
+300;Jacksonville-St. Marys-Palatka, FL-GA
+140;Bend-Redmond-Prineville, OR
+142;Birmingham-Hoover-Talladega, AL
+309;Joplin-Miami, MO-OK
+308;Jonesboro-Paragould, AR
+148;Boston-Worcester-Providence, MA-RI-NH-CT
+456;Reno-Carson City-Fernley, NV
+382;Modesto-Merced, CA
+348;Los Angeles-Long Beach, CA
+496;Savannah-Hinesville-Statesboro, GA
+384;Monroe-Ruston-Bastrop, LA
+540;Tyler-Jacksonville, TX
+468;Rocky Mount-Wilson-Roanoke Rapids, NC
+545;Virginia Beach-Norfolk, VA-NC
+544;Victoria-Port Lavaca, TX
+346;Longview-Marshall, TX
+462;Rochester-Austin, MN
+548;Washington-Baltimore-Arlington, DC-MD-VA-WV-PA
+466;Rockford-Freeport-Rochelle, IL
+464;Rochester-Batavia-Seneca Falls, NY
+522;Springfield-Jacksonville-Lincoln, IL
+521;Springfield-Greenfield Town, MA
+520;Springfield-Branson, MO
+525;Steamboat Springs-Craig, CO
+524;State College-DuBois, PA
+258;Fort Wayne-Huntington-Auburn, IN
+150;Bowling Green-Glasgow, KY
+154;Brownsville-Harlingen-Raymondville, TX
+310;Kalamazoo-Battle Creek-Portage, MI
+312;Kansas City-Overland Park-Kansas City, MO-KS
+314;Knoxville-Morristown-Sevierville, TN
+316;Kokomo-Peru, IN
+318;Lafayette-Opelousas-Morgan City, LA
+488;San Jose-San Francisco-Oakland, CA
+188;Clovis-Portales, NM
+390;Morgantown-Fairmont, WV
+393;Moses Lake-Othello, WA
+394;Mount Pleasant-Alma, MI
+396;Myrtle Beach-Conway, SC-NC
+556;Wichita-Arkansas City-Winfield, KS
+554;Wausau-Stevens Point-Wisconsin Rapids, WI
+146;Bloomsburg-Berwick-Sunbury, PA
+416;Oklahoma City-Shawnee, OK
+412;North Port-Sarasota, FL
+558;Williamsport-Lock Haven, PA
+306;Johnstown-Somerset, PA
+246;Fayetteville-Lumberton-Laurinburg, NC
+244;Fargo-Wahpeton, ND-MN
+533;Tallahassee-Bainbridge, FL-GA
+534;Toledo-Port Clinton, OH
+240;Erie-Meadville, PA
+538;Tulsa-Muskogee-Bartlesville, OK
+304;Johnson City-Kingsport-Bristol, TN-VA
+122;Atlanta--Athens-Clarke County--Sandy Springs, GA
+248;Findlay-Tiffin, OH
+120;Asheville-Brevard, NC
+324;Lake Charles-Jennings, LA
+320;Lafayette-West Lafayette-Frankfort, IN
+450;Raleigh-Durham-Chapel Hill, NC
+408;New York-Newark, NY-NJ-CT-PA
+404;New Bern-Morehead City, NC
+406;New Orleans-Metairie-Hammond, LA-MS
+400;Nashville-Davidson--Murfreesboro, TN
+474;Saginaw-Midland-Bay City, MI
+338;Lima-Van Wert-Celina, OH
+339;Lincoln-Beatrice, NE
+500;Seattle-Tacoma, WA
+332;Las Vegas-Henderson, NV-AZ
+330;Lansing-East Lansing-Owosso, MI
+336;Lexington-Fayette--Richmond--Frankfort, KY
+233;Edwards-Glenwood Springs, CO
+232;Eau Claire-Menomonie, WI
+236;Elmira-Corning, NY
+238;El Paso-Las Cruces, TX-NM
+430;Pittsburgh-New Castle-Weirton, PA-OH-WV
+438;Portland-Lewiston-South Portland, ME
+454;Redding-Red Bluff, CA
+452;Rapid City-Spearfish, SD
+380;Mobile-Daphne-Fairhope, AL
+104;Albany-Schenectady, NY
+106;Albuquerque-Santa Fe-Las Vegas, NM
+108;Amarillo-Borger, TX
+458;Richmond-Connersville, IN
+532;Syracuse-Auburn, NY
+340;Little Rock-North Little Rock, AR
+220;Detroit-Warren-Ann Arbor, MI
+221;Dixon-Sterling, IL
+222;Dothan-Enterprise-Ozark, AL
+362;Martin-Union City, TN-KY
+185;Cleveland-Indianola, MS
+184;Cleveland-Akron-Canton, OH
+536;Tucson-Nogales, AZ
+472;Sacramento-Roseville, CA
+426;Pensacola-Ferry Pass, FL-AL
+427;Peoria-Canton, IL
+424;Paducah-Mayfield, KY-IL
+425;Parkersburg-Marietta-Vienna, WV-OH
+422;Orlando-Deltona-Daytona Beach, FL
+423;Oskaloosa-Pella, IA
+420;Omaha-Council Bluffs-Fremont, NE-IA
+428;Philadelphia-Reading-Camden, PA-NJ-DE-MD
+440;Portland-Vancouver-Salem, OR-WA
+358;Manhattan-Junction City, KS
+359;Mankato-New Ulm-North Mankato, MN
+446;Pullman-Moscow, WA-ID
+448;Quincy-Hannibal, IL-MO
+356;Macon-Bibb County--Warner Robins, GA
+357;Madison-Janesville-Beloit, WI
+350;Louisville/Jefferson County--Elizabethtown--Madison, KY-IN
+118;Appleton-Oshkosh-Neenah, WI
+217;DeRidder-Fort Polk South, LA
+216;Denver-Aurora, CO
+198;Columbus-Marion-Zanesville, OH
+212;Dayton-Springfield-Sidney, OH
+194;Columbus-Auburn-Opelika, GA-AL
+192;Columbia-Orangeburg-Newberry, SC
+218;Des Moines-Ames-West Des Moines, IA
+190;Columbia-Moberly-Mexico, MO
+298;Jackson-Vicksburg-Brookhaven, MS
+294;Indianapolis-Carmel-Muncie, IN
+297;Jackson-Brownsville, TN
+296;Ithaca-Cortland, NY
+290;Huntsville-Decatur-Albertville, AL
+292;Idaho Falls-Rexburg-Blackfoot, ID
+518;Spokane-Spokane Valley-Coeur d'Alene, WA-ID
+512;Sioux City-Vermillion, IA-SD-NE
+515;South Bend-Elkhart-Mishawaka, IN-MI
+360;Mansfield-Ashland-Bucyrus, OH
+209;Davenport-Moline, IA-IL
+365;McAllen-Edinburg, TX
+470;Rome-Summerville, GA
+366;Medford-Grants Pass, OR
+368;Memphis-Forrest City, TN-MS-AR
+200;Columbus-West Point, MS
+206;Dallas-Fort Worth, TX-OK
+204;Corpus Christi-Kingsville-Alice, TX
+162;Cape Coral-Fort Myers-Naples, FL
+160;Buffalo-Cheektowaga, NY
+164;Cape Girardeau-Sikeston, MO-IL
+444;Pueblo-Cañon City, CO
+168;Cedar Rapids-Iowa City, IA
+280;Hickory-Lenoir, NC
+284;Hot Springs-Malvern, AR
+546;Visalia-Porterville-Hanford, CA
+288;Houston-The Woodlands, TX
+566;Youngstown-Warren, OH-PA
+376;Milwaukee-Racine-Waukesha, WI
+372;Midland-Odessa, TX
+370;Miami-Fort Lauderdale-Port St. Lucie, FL
+278;Hartford-West Hartford, CT
+277;Harrisonburg-Staunton-Waynesboro, VA
+276;Harrisburg-York-Lebanon, PA
+274;Greenville-Washington, NC
+273;Greenville-Spartanburg-Anderson, SC
+378;Minneapolis-St. Paul, MN-WI
+170;Charleston-Huntington-Ashland, WV-OH-KY
+172;Charlotte-Concord, NC-SC
+174;Chattanooga-Cleveland-Dalton, TN-GA-AL
+352;Lubbock-Levelland, TX
+176;Chicago-Naperville, IL-IN-WI
+178;Cincinnati-Wilmington-Maysville, OH-KY-IN
+476;St. Louis-St. Charles-Farmington, MO-IL
