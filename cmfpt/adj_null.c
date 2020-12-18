@@ -92,8 +92,8 @@ int main(int argc,char *argv []){
 		nw1=(float *)calloc(n2,sizeof(float));
 		nw=(float *)calloc(n2,sizeof(float));
 		equi=(int *)calloc(n1,sizeof(int));
-		colmarker=(int *)calloc(n1+1,sizeof(float));
-		netmarker=(int *)calloc(n1+1,sizeof(float));
+		colmarker=(int *)calloc(n1+1,sizeof(int));
+		netmarker=(int *)calloc(n1+1,sizeof(int));
 
 
 		for (i=0;i<n1+1;i++){netmarker[i]=-1;colmarker[i]=-1;}
@@ -154,7 +154,7 @@ int main(int argc,char *argv []){
 
 
 		 for(real2=0;real2<realnumber2;real2++){
-         printf("real   %d;%d\n",real2);
+         printf("real   %d\n",real2);
          shuffle(equi,n1);
 
 

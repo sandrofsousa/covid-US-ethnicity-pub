@@ -73,8 +73,8 @@ int main(int argc,char *argv []){
 		out=(int *)calloc(n2,sizeof(int));
 		nw1=(float *)calloc(n2,sizeof(float));
 		nw=(float *)calloc(n2,sizeof(float));
-		colmarker=(int *)calloc(n1+1,sizeof(float));
-		netmarker=(int *)calloc(n1+1,sizeof(float));
+		colmarker=(int *)calloc(n1+1,sizeof(int));
+		netmarker=(int *)calloc(n1+1,sizeof(int));
 
 
 		for (i=0;i<n1+1;i++){netmarker[i]=-1;colmarker[i]=-1;}
