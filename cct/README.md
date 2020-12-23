@@ -97,4 +97,4 @@ random walk.*
 - network_XXX: Edge-list with the corresponding edge weight
 
 
-[1]: https://datadryad.org/stash "DRYAD"
+[1]: https://doi.org/10.5061/dryad.hqbzkh1f9 "DRYAD"

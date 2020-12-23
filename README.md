@@ -17,4 +17,4 @@ formatted supported by the scripts. Please note that references
 to files and folders in the instructions here consider the data
 at the [DRYAD][1] repository.
 
-[1]: https://datadryad.org/stash "DRYAD"
+[1]: https://doi.org/10.5061/dryad.hqbzkh1f9 "DRYAD"
