@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/356212531.svg)](https://zenodo.org/badge/latestdoi/356212531)
+
 This repository contains code to compute the dynamic segregation
 indices based on Class Mean First Passage Times (CMFPT) and Class
 Coverage Times (CCT), as explained in the paper:  
